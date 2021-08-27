@@ -1,9 +1,24 @@
 # Express Web
 
-## This command run your root folder
+#### Simple Website Build with NodeJS & express
 
-## npm install
+___
 
-## for example: rootfolder>npm install
+## Download Project Using Git:
+``` bash
+git clone https://github.com/Madhuri2711/expressweb.git
+```
 
-## after installation you see folder -> node_modules
+## Setup / Run Project From Command Line:
+##### Using npm
+``` bash
+npm install
+npm start
+```
+___
+
+## Start to Use:
+### Go to You Browser and Type [localhost:8000](https://localhost:8000/)
+
+#### Great Here you Go..
+#### Your Application is Running.
